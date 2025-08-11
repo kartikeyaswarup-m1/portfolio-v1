@@ -4,11 +4,11 @@ import { cn } from "@/lib/utils";
 const skills = [
   // Languages
   { name: "HTML/CSS", level: 95, category: "Languages" },
-  { name: "JavaScript", level: 90, category: "Languages" },
-  { name: "React", level: 90, category: "Languages" },
-  { name: "Java", level: 90, category: "Languages" },
+  { name: "JavaScript", level: 75, category: "Languages" },
+  { name: "React", level: 70, category: "Languages" },
+  { name: "Java", level: 85, category: "Languages" },
   { name: "C/C++", level: 90, category: "Languages" },
-  { name: "Python", level: 95, category: "Languages" },
+  { name: "Python", level: 90, category: "Languages" },
 
   // Backend
   { name: "MySQL", level: 80, category: "backend" },
