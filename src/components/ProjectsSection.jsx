@@ -35,19 +35,19 @@ const projects = [
   },
   {
     id: 5,
-    title: "File Compression Application",
-    description:"Built a Huffman coding-based tool to compress files efficiently, reducing size while preserving data.",
+    title: "Password Generator Using React",
+    description:"Built a React.js app to create and securely save passwords with interactive UI and state management.",
     image: "/projects/Project5.png",
-    tags: ["Java", "Huffman Algorithm"],
-    githubUrl: "https://github.com/kartikeyaswarup-m1/",
+    tags: ["React", "Javascript"],
+    githubUrl: "https://github.com/kartikeyaswarup-m1/Basic_PasswordGen_React",
   },
   {
     id: 6,
-    title: "Password Generator Using React",
-    description:"Built a React.js app to create and securely save passwords with interactive UI and state management.",
+    title: "File Compression Application",
+    description:"Built a Huffman coding-based tool to compress files efficiently, reducing size while preserving data.",
     image: "/projects/Project6.png",
-    tags: ["React", "Javascript"],
-    githubUrl: "https://github.com/kartikeyaswarup-m1/Basic_PasswordGen_React",
+    tags: ["Java", "Huffman Algorithm"],
+    githubUrl: "https://github.com/kartikeyaswarup-m1/",
   },
 ];
 
