@@ -1,12 +1,33 @@
-# React + Vite
+# Personal Portfolio – v1
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive personal portfolio website showcasing my profile, skills, projects, and contact information.  
+This project is designed to serve as a professional online presence for recruiters, collaborators, and mentors.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Live Preview
 
-## Expanding the ESLint configuration
+Example: https://kartikeyaswarupsharma.vercel.app
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+##  Features
+
+- **Responsive Design** – Works seamlessly on desktop, tablet, and mobile
+- **Clean UI/UX** – Minimal, modern, and easy to navigate
+- **About Me Section** – Brief professional introduction
+- **Skills Overview** – Technologies and tools I work with
+- **Projects Showcase** – Highlights of selected projects with descriptions
+- **Contact Section** – Easy way to get in touch
+- **Fast Performance** – Optimized assets and clean code
+
+---
+
+##  Tech Stack
+
+- **Frontend:** HTML / CSS / JavaScript  
+  *(or React / Next.js – update based on your actual stack)*
+- **Styling:** CSS / Tailwind CSS  
+- **Deployment:** Vercel / Netlify / GitHub Pages
+
+
