@@ -28,6 +28,6 @@ Example: https://kartikeyaswarupsharma.vercel.app
 - **Frontend:** HTML / CSS / JavaScript  
   *(or React / Next.js – update based on your actual stack)*
 - **Styling:** CSS / Tailwind CSS  
-- **Deployment:** Vercel / Netlify / GitHub Pages
+- **Deployment:** Vercel 
 
 
