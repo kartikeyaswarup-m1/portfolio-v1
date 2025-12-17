@@ -3,6 +3,30 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
+    title: "VendorGuard",
+    description: "Analyze vendor security, legal, and compliance documents using a Retrieval-Augmented Generation (RAG) based risk assessment system.",
+    image: "/projects/Project1.png",
+    tags: ["Python", "React", "Retrival-Augumented Generation", "TypeScript"],
+    githubUrl: "https://github.com/kartikeyaswarup-m1/VendorGuard",
+  },
+  {
+    id: 2,
+    title: "RagTube",
+    description:"Ask questions about YouTube videos using local Retrieval-Augmented Generation (RAG) powered by Ollama.",
+    image: "/projects/Project2.png",
+    tags: ["Python", "Retrival-Augumented Generation"],
+    githubUrl: "https://github.com/kartikeyaswarup-m1/RagTube",
+  },
+  {
+    id: 3,
+    title: "Personal Portfolio",
+    description:"portfolio website showcasing my profile, skills, projects, and contact information.",
+    image: "/projects/Project3.png",
+    tags: ["React", "Javascript"],
+    githubUrl: "https://github.com/kartikeyaswarup-m1/portfolio-v1",
+  },
+  {
+    id: 4,
     title: "Facial Recognition Attendance System",
     description: "Developed an automated face attendance system using Python and OpenCV for real-time, accurate attendance tracking.",
     image: "/projects/Project1.png",
@@ -10,7 +34,7 @@ const projects = [
     githubUrl: "https://github.com/kartikeyaswarup-m1/OpenCV_FaceAttendance_py",
   },
   {
-    id: 2,
+    id: 5,
     title: "File Compression Application",
     description:"Built a Huffman coding-based tool to compress files efficiently, reducing size while preserving data.",
     image: "/projects/Project2.png",
@@ -18,7 +42,7 @@ const projects = [
     githubUrl: "https://github.com/kartikeyaswarup-m1/",
   },
   {
-    id: 3,
+    id: 6,
     title: "Password Generator Using React",
     description:"Built a React.js app to create and securely save passwords with interactive UI and state management.",
     image: "/projects/Project3.png",
