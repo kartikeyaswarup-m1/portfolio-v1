@@ -5,6 +5,7 @@ const skills = [
   // Languages
   { name: "HTML/CSS", level: 95, category: "Languages" },
   { name: "JavaScript", level: 75, category: "Languages" },
+  { name: "TypeScript", level: 75, category: "Languages" },
   { name: "React", level: 70, category: "Languages" },
   { name: "Java", level: 85, category: "Languages" },
   { name: "C/C++", level: 90, category: "Languages" },
@@ -12,15 +13,15 @@ const skills = [
 
   // Backend
   { name: "MySQL", level: 80, category: "backend" },
-  { name: "OracleDb", level: 75, category: "backend" },
-  { name: "MongoDB", level: 70, category: "backend" },
+  //{ name: "OracleDb", level: 75, category: "backend" },
+  { name: "FAST API", level: 70, category: "backend" },
   { name: "Google Firebase", level: 65, category: "backend" },
-  { name: "AWS", level: 65, category: "backend" },
+  //{ name: "AWS", level: 65, category: "backend" },
 
   // Tools
   { name: "Git/GitHub", level: 90, category: "tools" },
   { name: "XAMPP", level: 70, category: "tools" },
-  { name: "Figma", level: 85, category: "tools" },
+  //{ name: "Figma", level: 85, category: "tools" },
   { name: "VS Code", level: 95, category: "tools" },
 ];
 
