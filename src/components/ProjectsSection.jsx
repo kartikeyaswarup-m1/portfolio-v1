@@ -6,7 +6,7 @@ const projects = [
     title: "VendorGuard",
     description: "Analyze vendor security, legal, and compliance documents using a Retrieval-Augmented Generation (RAG) based risk assessment system.",
     image: "/projects/Project1.png",
-    tags: ["Python", "React", "RAG", "Gen-AI", "TypeScript"],
+    tags: ["Python", "React.js", "RAG", "Gen-AI"],
     githubUrl: "https://github.com/kartikeyaswarup-m1/VendorGuard",
   },
   {
@@ -22,7 +22,7 @@ const projects = [
     title: "Personal Portfolio",
     description:"portfolio website showcasing my profile, skills, projects, and contact information.",
     image: "/projects/Project3.png",
-    tags: ["React", "Javascript"],
+    tags: ["React.js", "Javascript"],
     githubUrl: "https://github.com/kartikeyaswarup-m1/portfolio-v1",
   },
   {
@@ -38,7 +38,7 @@ const projects = [
     title: "Password Generator Using React",
     description:"Built a React.js app to create and securely save passwords with interactive UI and state management.",
     image: "/projects/Project5.png",
-    tags: ["React", "Javascript"],
+    tags: ["React.js", "Javascript"],
     githubUrl: "https://github.com/kartikeyaswarup-m1/Basic_PasswordGen_React",
   },
   {
