@@ -6,7 +6,7 @@ const projects = [
     title: "VendorGuard",
     description: "Analyze vendor security, legal, and compliance documents using a Retrieval-Augmented Generation (RAG) based risk assessment system.",
     image: "/projects/Project1.png",
-    tags: ["Python", "React", "Retrival-Augumented Generation", "TypeScript"],
+    tags: ["Python", "React", "RAG", "Gen-AI", "TypeScript"],
     githubUrl: "https://github.com/kartikeyaswarup-m1/VendorGuard",
   },
   {
@@ -14,7 +14,7 @@ const projects = [
     title: "RagTube",
     description:"Ask questions about YouTube videos using local Retrieval-Augmented Generation (RAG) powered by Ollama.",
     image: "/projects/Project2.png",
-    tags: ["Python", "Retrival-Augumented Generation"],
+    tags: ["Python", "RAG", "Gen-AI"],
     githubUrl: "https://github.com/kartikeyaswarup-m1/RagTube",
   },
   {
