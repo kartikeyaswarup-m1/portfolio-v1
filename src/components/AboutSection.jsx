@@ -77,9 +77,9 @@ export const AboutSection = () => {
                 </div>
 
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">Project Management</h4>
+                  <h4 className="font-semibold text-lg">Work Experience</h4>
                   <p className="text-muted-foreground">
-                    Software Engineering Projects — College Coursework
+                    Ernst & Young (EY) - Summer Intern
                   </p>
                 </div>
               </div>
